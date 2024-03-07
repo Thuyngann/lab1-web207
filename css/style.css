@@ -1,0 +1,46 @@
+.container {
+    border: 1px solid;
+    text-align: center;
+
+}
+
+header {
+    background-color: blue;
+    height: 100px;
+    color: #FFF;
+    align-items: center;
+    padding-left: 48%;
+    border-bottom: 1px solid;
+
+
+}
+
+nav {
+    background-color: yellow;
+    height: 30px;
+    align-items: center;
+    padding-left: 48%;
+    border-bottom: 1px solid;
+
+}
+
+.box {
+    line-height: 200px;
+    align-items: center;
+}
+
+article {
+    background-color: #FFF;
+}
+aside {
+    background-color: aqua;
+    border-left: 1px solid;
+}
+
+footer {
+    background-color: #EEE;
+    line-height: 47px;
+    height: 50px;
+    padding-left: 48%;
+    border-top: 1px solid;
+}
