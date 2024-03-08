@@ -1,23 +1,39 @@
-.poly-cart{
+.poly-cart {
     margin-top: 5px;
 }
-.poly-cart ul{
+
+.poly-cart ul {
     padding: 0px;
     margin: 0px;
     list-style: none;
     font-variant: small-caps;
 }
-.poly-cart .panel-heading strong{
+
+.poly-cart .panel-heading strong {
     font-variant: small-caps;
     font-size: larger;
     text-shadow: 0 0 2px darkgrey;
 }
-.prr{
-    margin-top: 30px;
+
+.pr {
+    margin-top: 50px;
+    border: 1px solid #CCC;
 }
-.card{
-    margin-top: 30px;
+.lagu{
+    padding-left: 200px;
 }
-.box_cart{
+.card {
+    margin-top: 38px;
+}
+
+.box_cart {
+    border: 1px solid #CCC;
+    padding: 15px;
     display: flex;
+    border-radius: 5px;
+    margin-top: 38px;
+}
+
+.card-columns {
+    text-align: center;
 }
